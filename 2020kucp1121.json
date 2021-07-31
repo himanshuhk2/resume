@@ -1,0 +1,89 @@
+{
+    "basics": {
+        "name": "Himanshu",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/82516145?s=400&u=951d4a140eb09d91a7ecb99a2639c10dfd1d8013&v=4",
+        "email": "2020kucp1121@iiitkota.ac.in",
+        "phone": "8290672722",
+        "website": "",
+        "summary": "I am a student of IIIT Kota persuing Btech in Computer Science. ",
+        "location": {
+            "address": "Pataliya,Dist-alwer,(Raj)",
+            "postalCode": "301403",
+            "city": "kotkasim",
+            "countryCode": "India",
+            "region": "Rajasthan"
+        },
+        "profiles": [{
+                "network": "Twitter",
+                "username": "HIMANSHU04783387",
+                "url": "https://www.twitter.com/HIMANSHU04783387"
+            },
+            {
+                "network": "Github",
+                "username": "himanshuhk2",
+                "url": "https://www.github.com/himanshuhk2/"
+            },
+            {
+                "network": "linkedin",
+                "username": "HIMANSHU Kumar",
+                "url": "https://www.linkedin.com/in/himanshu-kumar-860465201/"
+            },
+            {
+                "network": "Instagram",
+                "username": "himanshuhk2",
+                "url": "https://instagram.com/himanshuhk2"
+            }
+        ]
+    },
+    "work": [{
+        "company": "",
+        "position": "",
+        "website": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": [""]
+    }],
+    
+    "education": [{
+        "institution": "Indian Institute of Information Technology,Kota",
+        "area": "Engineering",
+        "studyType": "Bachelor (hons)",
+        "startDate": "2020-12-02",
+        "endDate": "",
+        "gpa": "7.68",
+        "courses": [
+            "Computer Science & Engineering"
+        ]
+    }],
+    "awards": [{
+        "title": "",
+        "awarder": "",
+        "date": ""
+    }],
+    "publications": [{
+        "title": "",
+        "details": "",
+        "link": ""
+    }],
+    "skills": [{
+        "level": "Beginner",
+        "keywords": ["HTML", "CSS", "Javascript", "C/C++"]
+    }],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Singing"
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords": [
+                "handball", "Cricket", "Vollyball"
+            ]
+        }
+    ],
+    "references": []
+    }
